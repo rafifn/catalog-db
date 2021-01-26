@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone X",
+      "image": "https://i.ebayimg.com/thumbs/images/g/wSsAAOSwVgZZskdL/s-l300.webp",
+      "price": 13943000.66,
+      "category": "electronics",
+      "description": "PREMIUM SPEED FACTORY UNLOCK SERVICE AT&T CODE APPLE FOR IPHONE 12 11 X 8 7 SE 6"
+    },
+    {
+      "id": 2,
+      "name": "Airpods Pro",
+      "image": "https://i.ebayimg.com/thumbs/images/g/dMEAAOSwcwlf65Zu/s-l300.webp",
+      "price": 1126619.72,
+      "category": "electronics",
+      "description": "Apple Airpods With Charging Case 2nd Generation - Original Apple Airpods"
+    },
+    {
+      "id": 3,
+      "name": "Ipad 2020",
+      "image": "https://i.ebayimg.com/thumbs/images/g/HjMAAOSw22Ff3pxC/s-l300.webp",
+      "price": 4859014.08,
+      "category": "electronics",
+      "description": "NEW APPLE IPAD 8TH GEN 32GB Wi-Fi 10.2" SPACE GRAY TOUCH ID LATEST 2020 MODEL!"
+    },
+ }
