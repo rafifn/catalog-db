@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Iphone X",
+      "title": "Iphone X",
       "image": "https://i.ebayimg.com/thumbs/images/g/wSsAAOSwVgZZskdL/s-l300.webp",
       "price": 13943000.66,
       "category": "electronics",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "name": "Airpods Pro",
+      "title": "Airpods Pro",
       "image": "https://i.ebayimg.com/thumbs/images/g/dMEAAOSwcwlf65Zu/s-l300.webp",
       "price": 1126619.72,
       "category": "electronics",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "name": "Ipad 2020",
+      "title": "Ipad 2020",
       "image": "https://i.ebayimg.com/thumbs/images/g/HjMAAOSw22Ff3pxC/s-l300.webp",
       "price": 4859014.08,
       "category": "electronics",
