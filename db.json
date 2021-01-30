@@ -8,7 +8,7 @@
       "sold": 10,
       "category": "electronics",
       "description": "PREMIUM SPEED FACTORY UNLOCK SERVICE AT&T CODE APPLE FOR IPHONE 12 11 X 8 7 SE 6",
-      "variant": ["hitam", "biru", "hijau", "coklat"],
+      "variants": ["hitam", "biru", "hijau", "coklat"],
       "seller": {
         "name": "toko berkah",
         "trust": "100%"
@@ -22,7 +22,7 @@
       "sold": 19,
       "category": "electronics",
       "description": "Apple Airpods With Charging Case 2nd Generation - Original Apple Airpods",
-      "variant": ["kuning", "merah", "hijau", "coklat"],
+      "variants": ["kuning", "merah", "hijau", "coklat"],
       "seller": {
         "name": "maju jaya",
         "trust": "80%"
@@ -36,7 +36,7 @@
       "sold": 0,
       "category": "electronics",
       "description": "NEW APPLE IPAD 8TH GEN 32GB Wi-Fi 10.2 SPACE GRAY TOUCH ID LATEST 2020 MODEL!",
-      "variant": ["putih", "biru", "hijau", "coklat"],
+      "variants": ["putih", "biru", "hijau", "coklat"],
       "seller": {
         "name": "toko polosan",
         "trust": "70%"
@@ -49,7 +49,7 @@
       "price": 46500.7,
       "category": "health",
       "description": "TERBUKTI DI NEGARA CHINA PEMERINTAHAN! bukan kn95 Abal HARGA 1 PCS KALO MAU DAPET KOTAK MIN 10PCS kelipatannya",
-      "variant": ["hijab", "biasa"],
+      "variants": ["hijab", "biasa"],
       "seller": {
         "name": "toko apa adanya",
         "trust": "100%"
@@ -63,7 +63,7 @@
       "sold": 1,
       "category": "health",
       "description": "READY PAKET SUBARASHI PLUS UTSUKUSHHII. BURUAN DIORDER SEBELUM KEHABISAN STOCK.",
-      "variant": [],
+      "variants": [],
       "seller": {
         "name": "PT wkwk land",
         "trust": "100%"
@@ -77,7 +77,7 @@
       "sold": 20,
       "category": "health",
       "description": "NOTICE : Kemasan baru tanpa DUS maupun BOX. Harga tertera untuk 1 pcs. Untuk pembelian kelipatan 10pcs di packing dalam kemasan 1 Pouch ",
-      "variant": [],
+      "variants": [],
       "seller": {
         "name": "BRIS",
         "trust": "30%"
@@ -91,7 +91,7 @@
       "sold": 18,
       "category": "fashion",
       "description": "PREMIUM SPEED FACTORY UNLOCK SERVICE AT&T CODE APPLE FOR IPHONE 12 11 X 8 7 SE 6",
-      "variant": [],
+      "variants": [],
       "seller": {
         "name": "ANTM",
         "trust": "90%"
@@ -105,7 +105,7 @@
       "sold": 3,
       "category": "fashion",
       "description": "Apple Airpods With Charging Case 2nd Generation - Original Apple Airpods",
-      "variant": [],
+      "variants": [],
       "seller": {
         "name": "toko berkah",
         "trust": "100%"
@@ -119,7 +119,7 @@
       "sold": 5,
       "category": "fashion",
       "description": "NEW APPLE IPAD 8TH GEN 32GB Wi-Fi 10.2 SPACE GRAY TOUCH ID LATEST 2020 MODEL!",
-      "variant": [],
+      "variants": [],
       "seller": {
         "name": "toko kimia farma",
         "trust": "100%"
@@ -133,7 +133,7 @@
       "sold": 7,
       "category": "fashion",
       "description": "NEW APPLE IPAD 8TH GEN 32GB Wi-Fi 10.2 SPACE GRAY TOUCH ID LATEST 2020 MODEL!",
-      "variant": [],
+      "variants": [],
       "seller": {
         "name": "toko stue",
         "trust": "100%"
@@ -147,7 +147,7 @@
       "sold": 1,
       "category": "fashion",
       "description": "NEW APPLE IPAD 8TH GEN 32GB Wi-Fi 10.2 SPACE GRAY TOUCH ID LATEST 2020 MODEL!",
-      "variant": [],
+      "variants": [],
       "seller": {
         "name": "toko praketa",
         "trust": "80%"
@@ -161,7 +161,7 @@
       "sold": 90,
       "category": "fashion",
       "description": "Apple Airpods With Charging Case 2nd Generation - Original Apple Airpods",
-      "variant": [],
+      "variants": [],
       "seller": {
         "name": "toko warmindo",
         "trust": "100%"
@@ -175,6 +175,7 @@
       "sold": 15,
       "category": "fashion",
       "description": "NEW APPLE IPAD 8TH GEN 32GB Wi-Fi 10.2 SPACE GRAY TOUCH ID LATEST 2020 MODEL!",
+      "variants": [],
       "seller": {
         "name": "singgah",
         "trust": "60%"
@@ -188,7 +189,7 @@
       "sold": 100,
       "category": "fashion",
       "description": "NEW APPLE IPAD 8TH GEN 32GB Wi-Fi 10.2 SPACE GRAY TOUCH ID LATEST 2020 MODEL!",
-      "variant": [],
+      "variants": [],
       "seller": {
         "name": "toko klotok",
         "trust": "100%"
@@ -202,7 +203,7 @@
       "sold": 40,
       "category": "fashion",
       "description": "NEW APPLE IPAD 8TH GEN 32GB Wi-Fi 10.2 SPACE GRAY TOUCH ID LATEST 2020 MODEL!",
-      "variant": ["33mm", "40mm"],
+      "variants": ["33mm", "40mm"],
       "seller": {
         "name": "toko malioboro",
         "trust": "100%"
