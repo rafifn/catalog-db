@@ -2,7 +2,7 @@
   "products": [
     {
         "id": 1,
-        "name": "Nike Zoom 34",
+        "name": "Nike Zoom 25",
         "price": 250,
         "color": ["Blue","Red","Green","Black","White"],
         "size": ["6","7","8","9","10"],
